@@ -22,7 +22,7 @@ This package contains:
 ![screenshot](./Img/ad4_gpu_internal_compare.png)
 
 
-## **4. Software comparison&&
+## **4. Software comparison**
 ![screenshot](./Img/Compare_external.png)
 
 # Requirements
