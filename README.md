@@ -6,23 +6,23 @@ This package contains:
 
 # Overview
 
-##**1. Docking software integrated with code:**
+## **1. Docking software integrated with code:**
 - Autodock vina 1.2.3
 - Smina
 - Qvina2
 - Vina GPU
 - Autodock GPU
 
-##**2. Docking result analysis**
+## **2. Docking result analysis**
 
 ![screenshot](./Img/ad4_gpu_score_distribution.png)
 
 
-##**3. Retrospective control**
+## **3. Retrospective control**
 ![screenshot](./Img/ad4_gpu_internal_compare.png)
 
 
-##**3. Software comparison&&
+## **4. Software comparison&&
 ![screenshot](./Img/Compare_external.png)
 
 # Requirements
